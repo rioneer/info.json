@@ -1,0 +1,10 @@
+name: Bali Token
+type: BEP20
+symbol: BLI
+decimals: 18
+description: Bali Token is a utility token for tourism business in bali, Indonesia
+website: www.balitoken.io
+explorer: https://bscscan.com/token/0x42be29132756ddd6e8b3b94584ca0bab20545eec
+id: 0x42be29132756ddd6e8b3b94584ca0bab20545eec
+links: https://twitter.com/BaliToken 
+tags: 
